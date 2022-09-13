@@ -6,7 +6,7 @@
  -Me apasiona mucho los deportes en especial el futbol, soy una persona con muchas ganas de seguir aprendiendo. 
  
  ```js
-const felipeCiroM = {
+const AndrésRodríguez = {
   Skills: {
       BackEnd: [
           {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
