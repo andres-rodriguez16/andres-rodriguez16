@@ -48,9 +48,4 @@ Here are some ideas to get you started:
 
 👇 Para cualquier interés, inquietud o comentario no dudes en contactarme 👇
 
-<a href="mailto:andresyrg16@gmail.com">
-     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="50" width="50" />
-     </a>
-     <a href="www.linkedin.com/in/andrés-rodríguez16">
-      <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Ciro LinkedIn Profile" height="40" width="40" />
-      </a>
+✉️ <a>andresyrg16@gmail.com</a>
