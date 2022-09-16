@@ -9,15 +9,15 @@
 const AndrésRodríguez = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
+          {JavaScript: ['Node.Js', 'Express', 'Sequelize', 'PostgreSQL']},
         ],
       FrontEnd: [
           {JavaScript: ['React', 'Redux']}
         ]
     },
   Proyects: [
-      {RGBtech: ['Exprexs', 'NodeJs', 'Sequelize', 'PostgreSQL', "JWT", "Passport"]},
-      {videogamesApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']}
+      {RGBtech: ['Express', 'Node.Js', 'Sequelize', 'PostgreSQL', "JWT", "Passport"]},
+      {MöbiusApp: ['React', 'Redux', 'Node.Js', 'Express', 'Sequelize', 'PostgreSQL']}
     ],
   FutureTecnologies: ['Java', 'React-native', 'Go', 'Angular', "TypeScript", "Next.js"],
   
