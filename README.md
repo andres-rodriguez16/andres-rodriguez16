@@ -3,7 +3,7 @@
 
 <h1 align="center">  🙋🏻‍♂️ ¡Hola a todos! 👋 Soy Andrés Rodríguez 👋 </h1>
 
- -Me apasiona mucho los deportes en especial el futbol, soy una persona con muchas ganas de seguir aprendiendo. 
+Soy una persona comprometida con el aprendizaje continuo y el crecimiento profesional, siempre buscando mejorar mis habilidades y aportar más valor en cada proyecto
  
  ```js
 const AndrésRodríguez = {
